@@ -5,3 +5,4 @@
 - Functions
 - Math Libraries
 - Pandas
+- Exploratory Data analysis
