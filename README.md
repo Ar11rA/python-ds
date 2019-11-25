@@ -2,3 +2,4 @@
 
 - Revising python basics
 - Data structures
+- Functions
