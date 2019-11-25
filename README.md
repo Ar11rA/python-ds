@@ -3,3 +3,5 @@
 - Revising python basics
 - Data structures
 - Functions
+- Math Libraries
+- Pandas
