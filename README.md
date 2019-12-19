@@ -6,3 +6,5 @@
 - Math Libraries
 - Pandas
 - Exploratory Data analysis
+- Natural Language processing
+- Linear algebra
