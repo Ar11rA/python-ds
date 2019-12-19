@@ -8,3 +8,4 @@
 - Exploratory Data analysis
 - Natural Language processing
 - Linear algebra
+- Principal Component Analysis
