@@ -10,3 +10,4 @@
 - Linear algebra
 - Principal Component Analysis
 - Stochastic neighbourhood embedding
+- K-NN
