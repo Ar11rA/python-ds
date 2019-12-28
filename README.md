@@ -11,3 +11,4 @@
 - Principal Component Analysis
 - Stochastic neighbourhood embedding
 - K-NN
+- Naive bayesian
