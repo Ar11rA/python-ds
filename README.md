@@ -12,3 +12,4 @@
 - Stochastic neighbourhood embedding
 - K-NN
 - Naive bayesian
+- Linear regression
