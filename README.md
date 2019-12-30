@@ -13,3 +13,4 @@
 - K-NN
 - Naive bayesian
 - Linear regression
+- Logistic regression
